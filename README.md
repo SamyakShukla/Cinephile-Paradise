@@ -1,1 +1,1 @@
-I have created this React app which uses OMDB API to getch movie details from its server. We can search any movies title on this app and it will be displayed with regarding information like year, poster, IMDB ratings, etc.
+I have created this React app which uses OMDB API to fetch movie details from its server. We can search any movies title on this app and it will be displayed with regarding information like year, poster, IMDB ratings, etc.
